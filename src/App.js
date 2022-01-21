@@ -7,12 +7,12 @@ function App() {
       <Autofill
         options={
           [
-            "Omkar",
-            "Aniket",
-            "Atharva",
-            "Lambo",
-            "Elon",
-            "Musk"
+            "Ford Mustang",
+            "Ferrari",
+            "Porsche",
+            "Bugatti Veyron",
+            "Aston Martin",
+            "Tesla 3"
           ]
         }
       />
